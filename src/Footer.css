@@ -1,0 +1,13 @@
+.footer  {
+    border-top: solid white;
+    height: 10px;
+}
+a{
+    padding: 20px;
+}
+
+.footer .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

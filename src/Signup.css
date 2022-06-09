@@ -1,0 +1,34 @@
+.signup .container {
+    font-size: 15px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: solid 1px;
+    height: 200px;
+}
+
+.signup .fill {
+    display: flex;
+    text-align: center;
+
+}
+
+.input-container{
+    text-align: center;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    border: solid white;
+    border-radius: 4px;
+}
+
+.input-field{
+    border: dotted white;
+    padding: 10px;
+    margin: 10px;
+}
+
