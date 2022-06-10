@@ -10,7 +10,8 @@
 - <img width="1239" alt="Screen Shot 2022-06-10 at 9 15 40 AM" src="https://user-images.githubusercontent.com/58011627/173072474-ab1c8881-9bd2-40e1-aeba-64067ef75ff4.png">
 
 
-- [Project link](weak-wool.surge.sh/)
+- [Project link]
+- (weak-wool.surge.sh/)
 
 
 ## Preview
