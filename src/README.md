@@ -3,6 +3,11 @@
 
 ## Links:
 - Wireframe:
+- ![IMG_0509](https://user-images.githubusercontent.com/58011627/173072159-151282e1-17c3-41db-a189-f368a9ce5845.jpg)
+- ![IMG_0508](https://user-images.githubusercontent.com/58011627/173072227-5f32902e-8470-43d6-9aad-f11bf8ce6afa.jpg)
+- <img width="1280" alt="Screen Shot 2022-06-10 at 9 15 26 AM" src="https://user-images.githubusercontent.com/58011627/173072428-c9c7c28c-0d1e-48a2-b64a-2e90bf8b5904.png">
+
+- <img width="1239" alt="Screen Shot 2022-06-10 at 9 15 40 AM" src="https://user-images.githubusercontent.com/58011627/173072474-ab1c8881-9bd2-40e1-aeba-64067ef75ff4.png">
 
 
 - [Project link](weak-wool.surge.sh/)
